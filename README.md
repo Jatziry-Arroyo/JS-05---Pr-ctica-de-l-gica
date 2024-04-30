@@ -1,2 +1,2 @@
-# JS-05---Pr-ctica-de-l-gica
-Ejercicio de practica
+# JS-05---Práctica-de-lógica
+Ejercicio de práctica
